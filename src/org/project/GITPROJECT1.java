@@ -4,6 +4,7 @@ public class GITPROJECT1 {
 
 	public static void main(String[] args) {
 		String name="Archana";
+		System.out.println(name);
 	}
 
 }
