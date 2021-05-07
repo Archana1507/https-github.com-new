@@ -7,6 +7,7 @@ public class GITPROJECT1 {
 		System.out.println(name);
 		int a=89;
 		System.out.println(a);
+		System.out.println("Login");
 	}
 
 }
